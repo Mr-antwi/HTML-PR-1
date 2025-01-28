@@ -32,6 +32,10 @@ th{
 caption{
     background-color: rgb(135, 126, 119);
 }
+span{
+    font-weight: bolder;
+    color: rgb(135, 126, 119);
+}
 
 
 
