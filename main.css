@@ -1,8 +1,37 @@
+html,body{
+    margin: 10px;
+    padding: 5px;
+    font-size: 18px;
+    color: gainsboro;
+    background-color: #161414;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+a:visited{
+    color: aqua;
+}
 img{
     width: 400px;
     height: 400px;
 }
+a:hover{
+    color: antiquewhite;
+}
+table,th,td,tr,caption{
+border: 1px solid rgb(236, 236, 236);
+border-collapse: collapse;
+padding: 10px;
+text-align: center;
+}
 
+th{
+    color: rgb(126, 85, 34);
+}
+caption{
+    background-color: rgb(135, 126, 119);
+}
 
 
 
